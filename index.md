@@ -2,7 +2,7 @@
 ## (Fall 2018)
 ## Professor Andrew Meier
 
-## BOOKMARK THIS PAGE: [http://bit.ly/NNDI](http://bit.ly/NNDI) 
+## BOOKMARK THIS PAGE: [http://bit.ly/NND-1](http://bit.ly/NND-1) 
 
 This is a collection of resources, lessons plans and assignments for the data portion of your NND I course. Save the URL as everything you need for the data portion of this class is available here. 
 
